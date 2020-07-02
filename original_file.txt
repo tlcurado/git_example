@@ -1,1 +1,3 @@
 This file already existed in the cloned repository
+
+Alteracoes conflituosas
