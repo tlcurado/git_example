@@ -1,1 +1,3 @@
 This file never existed in the cloned repository
+
+Alteracoes conflituosas versão II
